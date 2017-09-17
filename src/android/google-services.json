@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "70150091643",
-    "firebase_url": "https://metroexit-v2.firebaseio.com",
-    "project_id": "metroexit-v2",
-    "storage_bucket": "metroexit-v2.appspot.com"
+    "project_number": "259546761878",
+    "firebase_url": "https://fir-colnet.firebaseio.com",
+    "project_id": "fir-colnet",
+    "storage_bucket": "fir-colnet.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:70150091643:android:69967d3d0ebbda78",
+        "mobilesdk_app_id": "1:259546761878:android:e8d7a5d14d290f31",
         "android_client_info": {
-          "package_name": "me.metroexit.app"
+          "package_name": "ca.colnet.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "70150091643-lj1brcohqcgmsghj4ji0dbo3mol25v9q.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "me.metroexit.app",
-            "certificate_hash": "ffe9439a854af79e7a77a52689e511bcaeafd87a"
-          }
-        },
-        {
-          "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
+          "client_id": "259546761878-eb5q4b2jof79u5ql39pig25o85t96rgb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAR_HM7SKud0SaLRruuRBBb8hKAdKoan8A"
+          "current_key": "AIzaSyD29bqXMzQou2-8xNZINX78LQ8KkG7DzH8"
         }
       ],
       "services": {
@@ -37,20 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "70150091643-6s10ul3kbag4re785ech3iionabv6h84.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "me.metroexit.app"
-              }
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
